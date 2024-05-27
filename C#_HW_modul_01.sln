@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_HW_modul_01", "C#_HW_modul_01.csproj", "{ACC1B174-2742-4A46-918B-AE554136D269}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E500DCD4-50C1-42D6-9909-91F50236D821} = {E500DCD4-50C1-42D6-9909-91F50236D821}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryHWmod1", "ClassLibraryHWmod1\ClassLibraryHWmod1.csproj", "{E500DCD4-50C1-42D6-9909-91F50236D821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC1B174-2742-4A46-918B-AE554136D269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC1B174-2742-4A46-918B-AE554136D269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC1B174-2742-4A46-918B-AE554136D269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC1B174-2742-4A46-918B-AE554136D269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E500DCD4-50C1-42D6-9909-91F50236D821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E500DCD4-50C1-42D6-9909-91F50236D821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E500DCD4-50C1-42D6-9909-91F50236D821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E500DCD4-50C1-42D6-9909-91F50236D821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3FD2AE8-C6B9-449D-9A64-494DC165BAC8}
+	EndGlobalSection
+EndGlobal
